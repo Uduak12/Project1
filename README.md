@@ -1,2 +1,2 @@
 # Project1
-Good things that share values here.
+Good things with values here.
